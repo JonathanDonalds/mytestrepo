@@ -6,15 +6,14 @@ public class SomeClass {
     }
 
     public void hello() {
-        System.out.println("Hello what's up");
+        System.out.println("hello what's up");
+    }
 
-        public void partner2Method() {
-            System.out.println("yippee!");
-        }
+    public void partner1Method() {
+        System.out.println("yay");
+    }
 
-        public void partner1Method() {
-            System.out.println("yay");
-        }
-
+    public void partner2Method() {
+        System.out.println("yippee!");
     }
 }
